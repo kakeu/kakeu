@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **kakeu/kakeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ I am a Software engineer with experience in building intelligent & scalable appl
 😄 Pronouns: He/him
 Useful Link: Github, Blog, Twitter, Facebook, Linkedin
 
--->
+
